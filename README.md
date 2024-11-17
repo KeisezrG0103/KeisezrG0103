@@ -14,7 +14,7 @@
 ---
 
 ### 📬 Connect with Me:
-- [LinkedIn](https://linkedin.com/in/nicholas-ivan)
+- [LinkedIn](https://linkedin.com/in/nicholas-ivan-840558272)
   
 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
