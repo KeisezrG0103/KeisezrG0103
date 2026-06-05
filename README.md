@@ -46,15 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keisezrg0103&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=keisezrg0103&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keisezrg0103&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
