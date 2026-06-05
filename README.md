@@ -29,7 +29,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,php,laravel,mysql,flutter,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,mysql,tensorflow,opencv,torch" />
 </p>
 
 ---
