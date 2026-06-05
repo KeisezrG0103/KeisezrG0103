@@ -37,15 +37,20 @@
 ### GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keisezrg0103&theme=flat&no-frame=true&margin-w=8" alt="GitHub trophies" />
+  <a href="https://github.com/keisezrg0103?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
+  <a href="https://github.com/keisezrg0103">
+    <img src="https://img.shields.io/badge/GitHub-keisezrg0103-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keisezrg0103&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keisezrg0103&show_icons=true&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keisezrg0103&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=keisezrg0103&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
